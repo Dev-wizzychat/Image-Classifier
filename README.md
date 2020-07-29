@@ -50,3 +50,5 @@ Epoch 9/10
 50000/50000 [==============================] - 232s 5ms/step - loss: 0.7271 - accuracy: 0.7436 - val_loss: 0.9404 - val_accuracy: 0.6709  
 Epoch 10/10  
 50000/50000 [==============================] - 230s 5ms/step - loss: 0.6730 - accuracy: 0.7625 - val_loss: 0.9300 - val_accuracy: 0.6804  
+
+The accuracy increased when the number of epochs was increased to 25.  
