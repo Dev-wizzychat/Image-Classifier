@@ -27,8 +27,6 @@ The entire model consists of 6 layers in total. In addition to layers below list
 
 ## Training the model
 
-Achieving over 76% accuracy in 10 epochs through 5 batches
-
 Train on 50000 samples, validate on 10000 samples  
 Epoch 1/10  
 50000/50000 [==============================] - 231s 5ms/step - loss: 1.7036 - accuracy: 0.3805 - val_loss: 1.4153 - val_accuracy: 0.4897  
